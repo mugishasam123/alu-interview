@@ -6,6 +6,7 @@ that calculates how many square units of water
 will be retained after it rains.
 """
 
+
 def rain(walls):
     """
     Calculate the amount of water retained between walls.
